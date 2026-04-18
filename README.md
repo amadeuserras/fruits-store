@@ -146,7 +146,7 @@ Because `fruits` and `filters` are state variables, a re-render is triggered eve
 Clone the project
 
 ```bash
-git clone https://github.com/amadeuio/fruits-store
+git clone https://github.com/amadeuserras/fruits-store
 ```
 
 Go to the project directory
